@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            //Ingresar el nombre y apellido por consola.
+            //Ingresar el nombre, apellido y edad por consola.
 
             string nombre;
             string apellido;
