@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75A50124-47C9-4EF4-82B8-BAF3EBD81126}|Ejercicio_06\\Ejercicio_06.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\ejercicio_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A50124-47C9-4EF4-82B8-BAF3EBD81126}|Ejercicio_06\\Ejercicio_06.csproj|solutionrelative:ejercicio_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B811DC87-531B-4204-81E4-2EDA88F8A150}|Ejercicio_02\\Ejercicio_02.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\ejercicio_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B811DC87-531B-4204-81E4-2EDA88F8A150}|Ejercicio_02\\Ejercicio_02.csproj|solutionrelative:ejercicio_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A087C267-E9D7-4860-B72E-9F3BA346F7A3}|Ejercicio_01\\Ejercicio_01.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\ejercicio_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A087C267-E9D7-4860-B72E-9F3BA346F7A3}|Ejercicio_01\\Ejercicio_01.csproj|solutionrelative:ejercicio_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{750ABE1C-B0A9-4705-A318-1A0CA8FA7EB1}|Ejercicios_CFP\\Ejercicios_CFP.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\ejercicios_cfp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{750ABE1C-B0A9-4705-A318-1A0CA8FA7EB1}|Ejercicios_CFP\\Ejercicios_CFP.csproj|solutionrelative:ejercicios_cfp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A50124-47C9-4EF4-82B8-BAF3EBD81126}|Ejercicio_06\\Ejercicio_06.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\ejercicio_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A50124-47C9-4EF4-82B8-BAF3EBD81126}|Ejercicio_06\\Ejercicio_06.csproj|solutionrelative:ejercicio_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roku\\Desktop\\ejercicios_CFP\\Ejercicios\\ejercicio_06\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -21,11 +29,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\Ejercicio_02\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_02\\Program.cs",
+              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\Ejercicio_02\\Program.cs",
+              "RelativeToolTip": "Ejercicio_02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:30:27.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\Ejercicio_01\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_01\\Program.cs",
+              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\Ejercicio_01\\Program.cs",
+              "RelativeToolTip": "Ejercicio_01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:27:13.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercicios_CFP\\Ejercicios\\ejercicio_06\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\ejercicios_CFP\\Ejercicios\\ejercicio_06\\Program.cs",
@@ -37,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\Ejercicio_06\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio_06\\Program.cs",
@@ -50,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\Ejercicios_CFP\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicios_CFP\\Program.cs",
