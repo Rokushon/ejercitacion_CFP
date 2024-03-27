@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6ED5112E-FDD7-469F-8B16-1E441EC3271A}|Ejercicio_07\\Ejercicio_07.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\ejercicio_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED5112E-FDD7-469F-8B16-1E441EC3271A}|Ejercicio_07\\Ejercicio_07.csproj|solutionrelative:ejercicio_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{30AF5C80-72B8-4708-9CFA-C74303481798}|Ejercicios_03_04\\Ejercicios_03_04.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\ejercicios_03_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30AF5C80-72B8-4708-9CFA-C74303481798}|Ejercicios_03_04\\Ejercicios_03_04.csproj|solutionrelative:ejercicios_03_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\Ejercicio_07\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_07\\Program.cs",
+              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\Ejercicio_07\\Program.cs",
+              "RelativeToolTip": "Ejercicio_07\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:49:32.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\Ejercicios_03_04\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicios_03_04\\Program.cs",
