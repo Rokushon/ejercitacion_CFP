@@ -22,26 +22,39 @@ namespace Ejercicios_03_04
 
             //04) Ingresar 5 números enteros, calcular y mostrar el promedio.
 
-            int primer_numero;
-            int segundo_numero;
-            int tercer_numero;
-            int cuarto_numero;
-            int quinto_numero;
+            double numero;
+            double suma = 0;
+            //int segundo_numero;
+            //int tercer_numero;
+            //int cuarto_numero;
+            //int quinto_numero;
             double promedio;
 
-            Console.WriteLine("Ingrese el primer numero:");
-            primer_numero = int.Parse(Console.ReadLine());
-            Console.WriteLine("Ingrese el segundo numero:");
-            segundo_numero = int.Parse(Console.ReadLine());
-            Console.WriteLine("Ingrese el tercer numero:");
-            tercer_numero = int.Parse(Console.ReadLine());
-            Console.WriteLine("Ingrese el cuarto numero:");
-            cuarto_numero = int.Parse(Console.ReadLine());
-            Console.WriteLine("Ingrese el quinto numero:");
-            quinto_numero = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Ingrese el primer numero:");
+            //primer_numero = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Ingrese el segundo numero:");
+            //segundo_numero = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Ingrese el tercer numero:");
+            //tercer_numero = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Ingrese el cuarto numero:");
+            //cuarto_numero = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Ingrese el quinto numero:");
+            //quinto_numero = int.Parse(Console.ReadLine());
 
-            promedio = (primer_numero + segundo_numero + tercer_numero + cuarto_numero + quinto_numero) / 5;
-            Console.WriteLine("El promedio entre los 5 numeros es de: " + promedio);
+            //promedio = (primer_numero + segundo_numero + tercer_numero + cuarto_numero + quinto_numero) / 5;
+            //Console.WriteLine("El promedio entre los 5 numeros es de: " + promedio);
+
+
+            Console.WriteLine("Le voy a pedir 5 numeros y despues le dare el promedio de ellos:");
+
+            for(int i = 1; i < 6; i++)
+            {
+                Console.WriteLine($"Ingrese el numero {i}º:");
+                numero = int.Parse(Console.ReadLine());
+                suma += numero;
+            }
+            promedio = suma / 5;
+            Console.WriteLine($"El promedio entre los 5 numeros es de: {promedio}");
 
         }
     }
