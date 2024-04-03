@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejercicios_CFP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b87fc38ebe5d178197884cbd90f9f4998c65207")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4bbcacb17bb484d6119c4b99eebdc49a6719dff")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejercicios_CFP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejercicios_CFP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
