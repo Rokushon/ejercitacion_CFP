@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0C2C01FC-98C3-476C-B633-76D4C60A154A}|LibreriaDeClases\\LibreriaDeClases.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\libreriadeclases\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2C01FC-98C3-476C-B633-76D4C60A154A}|LibreriaDeClases\\LibreriaDeClases.csproj|solutionrelative:libreriadeclases\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9AB0F8EA-A794-4EDB-A18B-B6AD0474D992}|LibreriaDeFunciones\\LibreriaDeFunciones.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\libreriadefunciones\\misfunciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AB0F8EA-A794-4EDB-A18B-B6AD0474D992}|LibreriaDeFunciones\\LibreriaDeFunciones.csproj|solutionrelative:libreriadefunciones\\misfunciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE574F79-1C2A-4F83-BD93-DF4EBAAB5E3E}|Strings_ejercicio_1_al_4\\Strings_ejercicio_1_al_4.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\strings_ejercicio_1_al_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE574F79-1C2A-4F83-BD93-DF4EBAAB5E3E}|Strings_ejercicio_1_al_4\\Strings_ejercicio_1_al_4.csproj|solutionrelative:strings_ejercicio_1_al_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6ED5112E-FDD7-469F-8B16-1E441EC3271A}|Ejercicio_07\\Ejercicio_07.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\ejercicio_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6ED5112E-FDD7-469F-8B16-1E441EC3271A}|Ejercicio_07\\Ejercicio_07.csproj|solutionrelative:ejercicio_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE574F79-1C2A-4F83-BD93-DF4EBAAB5E3E}|Strings_ejercicio_1_al_4\\Strings_ejercicio_1_al_4.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\strings_ejercicio_1_al_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE574F79-1C2A-4F83-BD93-DF4EBAAB5E3E}|Strings_ejercicio_1_al_4\\Strings_ejercicio_1_al_4.csproj|solutionrelative:strings_ejercicio_1_al_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30AF5C80-72B8-4708-9CFA-C74303481798}|Ejercicios_03_04\\Ejercicios_03_04.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\ejercicios_03_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Clase.cs",
+              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaDeClases\\Clase.cs",
+              "RelativeDocumentMoniker": "LibreriaDeClases\\Clase.cs",
+              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaDeClases\\Clase.cs",
+              "RelativeToolTip": "LibreriaDeClases\\Clase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:53:24.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MisFunciones.cs",
               "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaDeFunciones\\MisFunciones.cs",
               "RelativeDocumentMoniker": "LibreriaDeFunciones\\MisFunciones.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\Strings_ejercicio_1_al_4\\Program.cs",
               "RelativeDocumentMoniker": "Strings_ejercicio_1_al_4\\Program.cs",
@@ -51,8 +68,7 @@
               "RelativeToolTip": "Strings_ejercicio_1_al_4\\Program.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAAgwFUAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T21:45:38.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T21:45:38.519Z"
             },
             {
               "$type": "Document",
@@ -62,13 +78,14 @@
               "RelativeDocumentMoniker": "Ejercicio_07\\Program.cs",
               "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\Ejercicio_07\\Program.cs",
               "RelativeToolTip": "Ejercicio_07\\Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCAAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T18:49:32.566Z"
+              "WhenOpened": "2024-03-27T18:49:32.566Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\Ejercicios_03_04\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicios_03_04\\Program.cs",
