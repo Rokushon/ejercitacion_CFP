@@ -1,0 +1,12 @@
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaClaseEvaluacion\bin\Debug\net8.0\LibreriaClaseEvaluacion.deps.json
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaClaseEvaluacion\bin\Debug\net8.0\LibreriaClaseEvaluacion.dll
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaClaseEvaluacion\bin\Debug\net8.0\LibreriaClaseEvaluacion.pdb
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaClaseEvaluacion\obj\Debug\net8.0\LibreriaClaseEvaluacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaClaseEvaluacion\obj\Debug\net8.0\LibreriaClaseEvaluacion.AssemblyInfoInputs.cache
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaClaseEvaluacion\obj\Debug\net8.0\LibreriaClaseEvaluacion.AssemblyInfo.cs
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaClaseEvaluacion\obj\Debug\net8.0\LibreriaClaseEvaluacion.csproj.CoreCompileInputs.cache
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaClaseEvaluacion\obj\Debug\net8.0\LibreriaClaseEvaluacion.sourcelink.json
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaClaseEvaluacion\obj\Debug\net8.0\LibreriaClaseEvaluacion.dll
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaClaseEvaluacion\obj\Debug\net8.0\refint\LibreriaClaseEvaluacion.dll
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaClaseEvaluacion\obj\Debug\net8.0\LibreriaClaseEvaluacion.pdb
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaClaseEvaluacion\obj\Debug\net8.0\ref\LibreriaClaseEvaluacion.dll

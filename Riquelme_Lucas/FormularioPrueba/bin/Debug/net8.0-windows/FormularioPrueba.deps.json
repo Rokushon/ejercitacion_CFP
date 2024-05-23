@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FormularioPrueba/1.0.0": {
+        "dependencies": {
+          "LibreriaClaseEvaluacion": "1.0.0",
+          "LibreriaDeFunciones": "1.0.0"
+        },
+        "runtime": {
+          "FormularioPrueba.dll": {}
+        }
+      },
+      "LibreriaClaseEvaluacion/1.0.0": {
+        "runtime": {
+          "LibreriaClaseEvaluacion.dll": {}
+        }
+      },
+      "LibreriaDeFunciones/1.0.0": {
+        "runtime": {
+          "LibreriaDeFunciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormularioPrueba/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaClaseEvaluacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaDeFunciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
