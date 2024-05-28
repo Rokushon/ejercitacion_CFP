@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE2D3910-608D-42A7-9D91-8E13442025B3}|ConsolaEstudiante\\ConsolaEstudiante.csproj|C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\consolaestudiante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE2D3910-608D-42A7-9D91-8E13442025B3}|ConsolaEstudiante\\ConsolaEstudiante.csproj|solutionrelative:consolaestudiante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{439265DB-30D8-44BB-92F5-13E17DFAFCCB}|WinFormEstudiante\\WinFormEstudiante.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\winformestudiante\\formularioestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{439265DB-30D8-44BB-92F5-13E17DFAFCCB}|WinFormEstudiante\\WinFormEstudiante.csproj|solutionrelative:winformestudiante\\formularioestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439265DB-30D8-44BB-92F5-13E17DFAFCCB}|WinFormEstudiante\\WinFormEstudiante.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\winformestudiante\\formularioestudiante.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439265DB-30D8-44BB-92F5-13E17DFAFCCB}|WinFormEstudiante\\WinFormEstudiante.csproj|solutionrelative:winformestudiante\\formularioestudiante.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439265DB-30D8-44BB-92F5-13E17DFAFCCB}|WinFormEstudiante\\WinFormEstudiante.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\winformestudiante\\formularioestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439265DB-30D8-44BB-92F5-13E17DFAFCCB}|WinFormEstudiante\\WinFormEstudiante.csproj|solutionrelative:winformestudiante\\formularioestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6B66923-35B2-4928-BEAE-ABEEFC2A52CB}|LibreriaEstudiante\\LibreriaEstudiante.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\libreriaestudiante\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6B66923-35B2-4928-BEAE-ABEEFC2A52CB}|LibreriaEstudiante\\LibreriaEstudiante.csproj|solutionrelative:libreriaestudiante\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{391C92B2-1DB8-480C-91BA-D00880B4B3D2}|FormularioPrueba\\FormularioPrueba.csproj|C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\formularioprueba\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391C92B2-1DB8-480C-91BA-D00880B4B3D2}|FormularioPrueba\\FormularioPrueba.csproj|solutionrelative:formularioprueba\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9C0EA07-5041-4BD0-A456-BE45BC91BE5D}|LibreriaClaseEvaluacion\\LibreriaClaseEvaluacion.csproj|C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\libreriaclaseevaluacion\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9C0EA07-5041-4BD0-A456-BE45BC91BE5D}|LibreriaClaseEvaluacion\\LibreriaClaseEvaluacion.csproj|solutionrelative:libreriaclaseevaluacion\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AB0F8EA-A794-4EDB-A18B-B6AD0474D992}|LibreriaDeFunciones\\LibreriaDeFunciones.csproj|C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\libreriadefunciones\\misfunciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AB0F8EA-A794-4EDB-A18B-B6AD0474D992}|LibreriaDeFunciones\\LibreriaDeFunciones.csproj|solutionrelative:libreriadefunciones\\misfunciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{391C92B2-1DB8-480C-91BA-D00880B4B3D2}|FormularioPrueba\\FormularioPrueba.csproj|C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\formularioprueba\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{391C92B2-1DB8-480C-91BA-D00880B4B3D2}|FormularioPrueba\\FormularioPrueba.csproj|solutionrelative:formularioprueba\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,80 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\ConsolaEstudiante\\Program.cs",
-              "RelativeDocumentMoniker": "ConsolaEstudiante\\Program.cs",
-              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\ConsolaEstudiante\\Program.cs",
-              "RelativeToolTip": "ConsolaEstudiante\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T22:56:48.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Estudiante.cs",
               "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaEstudiante\\Estudiante.cs",
               "RelativeDocumentMoniker": "LibreriaEstudiante\\Estudiante.cs",
               "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaEstudiante\\Estudiante.cs",
               "RelativeToolTip": "LibreriaEstudiante\\Estudiante.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAANAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAA8wEgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T22:56:18.197Z",
+              "WhenOpened": "2024-05-28T23:56:07.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Auto.cs",
-              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaClaseEvaluacion\\Auto.cs",
-              "RelativeDocumentMoniker": "LibreriaClaseEvaluacion\\Auto.cs",
-              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaClaseEvaluacion\\Auto.cs",
-              "RelativeToolTip": "LibreriaClaseEvaluacion\\Auto.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBsAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "FormularioEstudiante.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\WinFormEstudiante\\FormularioEstudiante.cs",
+              "RelativeDocumentMoniker": "WinFormEstudiante\\FormularioEstudiante.cs",
+              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\WinFormEstudiante\\FormularioEstudiante.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormEstudiante\\FormularioEstudiante.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T22:17:36.535Z"
+              "WhenOpened": "2024-05-28T23:02:19.631Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MisFunciones.cs",
-              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaDeFunciones\\MisFunciones.cs",
-              "RelativeDocumentMoniker": "LibreriaDeFunciones\\MisFunciones.cs",
-              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaDeFunciones\\MisFunciones.cs",
-              "RelativeToolTip": "LibreriaDeFunciones\\MisFunciones.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCUAAAAaAAAA",
+              "DocumentIndex": 1,
+              "Title": "FormularioEstudiante.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\WinFormEstudiante\\FormularioEstudiante.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormEstudiante\\FormularioEstudiante.Designer.cs",
+              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\WinFormEstudiante\\FormularioEstudiante.Designer.cs",
+              "RelativeToolTip": "WinFormEstudiante\\FormularioEstudiante.Designer.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAowH4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T14:10:57.172Z"
+              "WhenOpened": "2024-05-28T23:01:46.94Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Formulario.cs",
-              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\FormularioPrueba\\Formulario.cs",
-              "RelativeDocumentMoniker": "FormularioPrueba\\Formulario.cs",
-              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\FormularioPrueba\\Formulario.cs",
-              "RelativeToolTip": "FormularioPrueba\\Formulario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Title": "FormularioEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\WinFormEstudiante\\FormularioEstudiante.cs",
+              "RelativeDocumentMoniker": "WinFormEstudiante\\FormularioEstudiante.cs",
+              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\WinFormEstudiante\\FormularioEstudiante.cs",
+              "RelativeToolTip": "WinFormEstudiante\\FormularioEstudiante.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAUwB0AAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T00:07:12.728Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Formulario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\FormularioPrueba\\Formulario.cs",
-              "RelativeDocumentMoniker": "FormularioPrueba\\Formulario.cs",
-              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\FormularioPrueba\\Formulario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FormularioPrueba\\Formulario.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T00:05:02.884Z"
+              "WhenOpened": "2024-05-28T22:20:01.68Z",
+              "EditorCaption": ""
             }
           ]
         }

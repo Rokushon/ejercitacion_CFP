@@ -45,12 +45,12 @@ namespace LibreriaEstudiante
         public string Mostrar()
         {
             StringBuilder informacion = new StringBuilder();
-            informacion.AppendLine($"Nombre: {nombre}");
-            informacion.AppendLine($"Apellido: {apellido}");
-            informacion.AppendLine($"Numero de legajo: {legajo}");
-            informacion.AppendLine($"Primer parcial: {notaPrimerParcial}");
-            informacion.AppendLine($"Segundo parcial: {notaSegundoParcial}");
-            informacion.AppendLine($"Promedio: {CalcularPromedio()}");
+            informacion.AppendLine($" Nombre: {nombre} ;");
+            informacion.AppendLine($" Apellido: {apellido} ;");
+            informacion.AppendLine($" Numero de legajo: {legajo} ;");
+            informacion.AppendLine($" Primer parcial: {notaPrimerParcial} ;");
+            informacion.AppendLine($" Segundo parcial: {notaSegundoParcial} ;");
+            informacion.AppendLine($" Promedio: {CalcularPromedio()} ;");
             informacion.AppendLine(MostrarNotaFinal());
             return informacion.ToString();
         }
@@ -60,14 +60,16 @@ namespace LibreriaEstudiante
             double notaFinal = CalcularNotaFinal();
             if (notaFinal != -1) 
             {
-                return $"Nota final: {notaFinal}";
+                return $" Nota final: {notaFinal} ;";
             }
             else
             {
-                return "Alumno desaprobado";
+                return " Alumno desaprobado ;";
             }
         }
-
-
+        public override string ToString()
+        {
+            return Mostrar();
+        }
     }
 }
