@@ -25,9 +25,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pruebaClases", "pruebaClase
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormularioPrueba", "FormularioPrueba\FormularioPrueba.csproj", "{391C92B2-1DB8-480C-91BA-D00880B4B3D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaClaseEvaluacion", "LibreriaClaseEvaluacion\LibreriaClaseEvaluacion.csproj", "{C9C0EA07-5041-4BD0-A456-BE45BC91BE5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaClaseEvaluacion", "LibreriaClaseEvaluacion\LibreriaClaseEvaluacion.csproj", "{C9C0EA07-5041-4BD0-A456-BE45BC91BE5D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolaEvaluacion", "ConsolaEvaluacion\ConsolaEvaluacion.csproj", "{302E19B8-830F-484A-9004-FEDA9A4364FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaEstudiante", "LibreriaEstudiante\LibreriaEstudiante.csproj", "{D6B66923-35B2-4928-BEAE-ABEEFC2A52CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolaEstudiante", "ConsolaEstudiante\ConsolaEstudiante.csproj", "{BE2D3910-608D-42A7-9D91-8E13442025B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,14 @@ Global
 		{302E19B8-830F-484A-9004-FEDA9A4364FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{302E19B8-830F-484A-9004-FEDA9A4364FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{302E19B8-830F-484A-9004-FEDA9A4364FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B66923-35B2-4928-BEAE-ABEEFC2A52CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B66923-35B2-4928-BEAE-ABEEFC2A52CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B66923-35B2-4928-BEAE-ABEEFC2A52CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B66923-35B2-4928-BEAE-ABEEFC2A52CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE2D3910-608D-42A7-9D91-8E13442025B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2D3910-608D-42A7-9D91-8E13442025B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2D3910-608D-42A7-9D91-8E13442025B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2D3910-608D-42A7-9D91-8E13442025B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -18,10 +18,11 @@ namespace FormularioPrueba
         {
             //combo_box.Items.AddRange(Auto.ColoresElegidos());
             this.misAutos = new List<Auto>();
-            foreach (Color color in Auto.ColoresElegidos())
-            {
-                combo_box.Items.Add(color.Name);
-            }
+            CargarCMB(Auto.ColoresElegidos());
+            //foreach (Color color in Auto.ColoresElegidos())
+            //{
+            //    combo_box.Items.Add(color.Name);
+            //}
             combo_box.SelectedIndex = 0;
         }
 
@@ -29,7 +30,8 @@ namespace FormularioPrueba
         {
             string marca = this.marca_texto.Text;
             string cantidad = this.combustible_texto.Text;
-            Color color = Color.FromName(this.combo_box.Text);
+            //Color color = Color.FromName(this.combo_box.Text);
+            Color color = (Color)this.combo_box.SelectedItem;
             bandera = true;
 
             if (MisFunciones.IsEmpty(marca))
@@ -71,6 +73,13 @@ namespace FormularioPrueba
             }
         }
 
+
+
+
+
+
+
+
         private void button_limpiar_Click(object sender, EventArgs e)
         {
             this.Vaciarlista();
@@ -80,17 +89,34 @@ namespace FormularioPrueba
         {
             this.Vaciarlista();
             this.lst_misAutos.Items.AddRange(misAutos.ToArray());
+            //this.lst_misAutos.DataSource = misAutos;
         }
         private void Vaciarlista()
         {
             lst_misAutos.Items.Clear();
+            //this.lst_misAutos.DataSource = null;
         }
+
+
+
+
+
+
+
+
         private void Limpiar()
         {
             marca_texto.Text = string.Empty;
             combustible_texto.Text = string.Empty;
             //combo_box.Text = string.Empty; no sirve asi que lo cambie por null
             combo_box.SelectedItem = null;
+        }
+
+
+
+        private void CargarCMB(List<Color> colors)
+        {
+            this.combo_box.DataSource = colors;
         }
     }
 }
