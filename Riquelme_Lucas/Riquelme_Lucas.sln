@@ -33,7 +33,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaEstudiante", "Libre
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsolaEstudiante", "ConsolaEstudiante\ConsolaEstudiante.csproj", "{BE2D3910-608D-42A7-9D91-8E13442025B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormEstudiante", "WinFormEstudiante\WinFormEstudiante.csproj", "{439265DB-30D8-44BB-92F5-13E17DFAFCCB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFEstudiante", "WFEstudiante\WFEstudiante.csproj", "{F7D28D9D-9B63-4A09-9351-EB67D186633A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -101,10 +101,10 @@ Global
 		{BE2D3910-608D-42A7-9D91-8E13442025B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE2D3910-608D-42A7-9D91-8E13442025B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE2D3910-608D-42A7-9D91-8E13442025B3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{439265DB-30D8-44BB-92F5-13E17DFAFCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{439265DB-30D8-44BB-92F5-13E17DFAFCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{439265DB-30D8-44BB-92F5-13E17DFAFCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{439265DB-30D8-44BB-92F5-13E17DFAFCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7D28D9D-9B63-4A09-9351-EB67D186633A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D28D9D-9B63-4A09-9351-EB67D186633A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D28D9D-9B63-4A09-9351-EB67D186633A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D28D9D-9B63-4A09-9351-EB67D186633A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,75 +1,114 @@
 ﻿using System.Text;
+using System.Transactions;
 
 namespace LibreriaEstudiante
 {
     public class Estudiante
     {
+        private string nombre;
         private string apellido;
         private string legajo;
-        private string nombre;
-        private int notaPrimerParcial;
-        private int notaSegundoParcial;
+
+        //private int notaPrimerParcial;
+        //private int notaSegundoParcial;
+
         private static Random random;
+
+        public string Nombre { get => nombre; set => nombre = value; }
+        public string Apellido { get => apellido; set => apellido = value; }
+        public string Legajo { get => legajo; set => legajo = value; }
+
+
+        //public int NotaPrimerParcial { get => notaPrimerParcial; set => notaPrimerParcial = value; }
+
+        //public int NotaSegundoParcial { get => notaSegundoParcial; set => notaSegundoParcial = value; }
+
+        //public double Promedio {
+        //    get 
+        //    {
+        //        return CalcularPromedio();
+        //    }
+        //        }
+        //public double NotaFinal
+        //{
+        //    get
+        //    {
+        //        return CalcularNotaFinal();
+        //    }
+        //}
+
         static Estudiante()
         {
             random = new Random();
         }
+
         public Estudiante(string nombre, string apellido, string legajo)
         {
             this.nombre = nombre;
             this.apellido = apellido;
             this.legajo = legajo;
         }
-        public void SetNotaPrimerParcial(int nota)
-        {
-            notaPrimerParcial = nota;
-        }
-        public void SetNotaSegundoParcial(int nota)
-        {
-            notaSegundoParcial = nota;
-        }
-        private double CalcularPromedio()
-        {
-            return ((double)notaPrimerParcial + notaSegundoParcial) / 2;
-        }
 
-        public double CalcularNotaFinal()
-        {
-            int notaFinal = -1;
-            if(notaPrimerParcial >= 4 && notaSegundoParcial >= 4)
-            {
-                notaFinal = random.Next(6,11);
-            }
-            return notaFinal;
-        }
-        public string Mostrar()
-        {
-            StringBuilder informacion = new StringBuilder();
-            informacion.AppendLine($" Nombre: {nombre} ;");
-            informacion.AppendLine($" Apellido: {apellido} ;");
-            informacion.AppendLine($" Numero de legajo: {legajo} ;");
-            informacion.AppendLine($" Primer parcial: {notaPrimerParcial} ;");
-            informacion.AppendLine($" Segundo parcial: {notaSegundoParcial} ;");
-            informacion.AppendLine($" Promedio: {CalcularPromedio()} ;");
-            informacion.AppendLine(MostrarNotaFinal());
-            return informacion.ToString();
-        }
+        //public void SetNotaPrimerParcial(int nota)
+        //{
+        //    notaPrimerParcial = nota;
+        //}
+        //public void SetNotaSegundoParcial(int nota)
+        //{
+        //    notaSegundoParcial = nota;
+        //}
+        //private double CalcularPromedio()
+        //{
+        //    return ((double)notaPrimerParcial + notaSegundoParcial) / 2;
+        //}
 
-        private string MostrarNotaFinal()
+       /* public void PasarPromedio()
         {
-            double notaFinal = CalcularNotaFinal();
-            if (notaFinal != -1) 
-            {
-                return $" Nota final: {notaFinal} ;";
-            }
-            else
-            {
-                return " Alumno desaprobado ;";
-            }
+            Promedio = CalcularPromedio();
+        }*/
+
+        //public double CalcularNotaFinal()
+        //{
+        //    int notaFinal = -1;
+        //    if(notaPrimerParcial >= 4 && notaSegundoParcial >= 4)
+        //    {
+        //        notaFinal = random.Next(6,11);
+        //    }
+        //    return notaFinal;
+        //}
+
+/*        public void PasarNotaFinal()
+        {
+            NotaFinal = CalcularNotaFinal();
         }
+*/
+
+        //public string Mostrar()
+        //{
+        //    StringBuilder informacion = new StringBuilder();
+        //    informacion.AppendLine($" Nombre: {nombre} - " +$" Apellido: {apellido} - "+ $" Numero de legajo: {legajo} ;");
+        //    informacion.Append($" Primer parcial: {notaPrimerParcial} - ");
+        //    informacion.Append($" Segundo parcial: {notaSegundoParcial} - ");
+        //    informacion.AppendLine($" Promedio: {CalcularPromedio()} ; ");
+        //    informacion.AppendLine(MostrarNotaFinal());
+        //    return informacion.ToString();
+        //}
+
+        //private string MostrarNotaFinal()
+        //{
+        //    double notaFinal = CalcularNotaFinal();
+        //    if (notaFinal != -1) 
+        //    {
+        //        return $" Nota final: {notaFinal} ;";
+        //    }
+        //    else
+        //    {
+        //        return " Alumno desaprobado ;";
+        //    }
+        //}
         public override string ToString()
         {
-            return Mostrar();
+            return $"{nombre}  {apellido}";
         }
     }
 }

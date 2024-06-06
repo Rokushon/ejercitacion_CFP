@@ -6,21 +6,24 @@ namespace ConsolaEstudiante
     {
         static void Main(string[] args)
         {
-            Estudiante Lucas = new Estudiante("Lucas", "Riquelme", "5201");
-            Estudiante Josefina = new Estudiante("Josefina", "Josefa", "4444");
-            Estudiante Test3 = new Estudiante("Test", "3", "6600");
+            Random rnd = new Random();
 
-            Lucas.SetNotaPrimerParcial(2);
-            Josefina.SetNotaPrimerParcial(4);
-            Test3.SetNotaPrimerParcial(8);
+            List<Estudiante> estudiantes = new List<Estudiante>()
+            {
+                new Estudiante("Lucas", "Riquelme", "5201"),
+                new Estudiante("Josefina", "Josefa", "4444"),
+                new Estudiante("Test", "3", "6600"),
+            };
 
-            Lucas.SetNotaSegundoParcial(10);
-            Josefina.SetNotaSegundoParcial(4);
-            Test3.SetNotaSegundoParcial(4);
-
-            Console.WriteLine(Lucas.Mostrar());
-            Console.WriteLine(Josefina.Mostrar());
-            Console.WriteLine(Test3.Mostrar());
+            foreach(Estudiante estudiante in estudiantes)
+            {
+                estudiante.SetNotaPrimerParcial(rnd.Next(1, 11));
+                estudiante.SetNotaSegundoParcial(rnd.Next(1, 11));
+            }
+            foreach(Estudiante mostrarEstudiante in estudiantes)
+            {
+                Console.WriteLine(mostrarEstudiante.Mostrar());
+            }           
         }
     }
 }
