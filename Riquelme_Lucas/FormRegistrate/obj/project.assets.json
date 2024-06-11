@@ -1,0 +1,118 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "LibreriaDeClases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/LibreriaDeClases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibreriaDeClases.dll": {}
+        }
+      },
+      "LibreriaDeFunciones/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/LibreriaDeFunciones.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibreriaDeFunciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibreriaDeClases/1.0.0": {
+      "type": "project",
+      "path": "../LibreriaDeClases/LibreriaDeClases.csproj",
+      "msbuildProject": "../LibreriaDeClases/LibreriaDeClases.csproj"
+    },
+    "LibreriaDeFunciones/1.0.0": {
+      "type": "project",
+      "path": "../LibreriaDeFunciones/LibreriaDeFunciones.csproj",
+      "msbuildProject": "../LibreriaDeFunciones/LibreriaDeFunciones.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "LibreriaDeClases >= 1.0.0",
+      "LibreriaDeFunciones >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Roku\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\FormRegistrate\\FormRegistrate.csproj",
+      "projectName": "FormRegistrate",
+      "projectPath": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\FormRegistrate\\FormRegistrate.csproj",
+      "packagesPath": "C:\\Users\\Roku\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\FormRegistrate\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Roku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaDeClases\\LibreriaDeClases.csproj": {
+              "projectPath": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaDeClases\\LibreriaDeClases.csproj"
+            },
+            "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaDeFunciones\\LibreriaDeFunciones.csproj": {
+              "projectPath": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaDeFunciones\\LibreriaDeFunciones.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

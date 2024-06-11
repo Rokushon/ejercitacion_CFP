@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WFEstudiante")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6eab3d26cfb01ab3375b118062179da4df15f0ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccd870f9ee2e2ad653f9ae34183967944c818b15")]
 [assembly: System.Reflection.AssemblyProductAttribute("WFEstudiante")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WFEstudiante")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
