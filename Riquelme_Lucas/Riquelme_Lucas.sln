@@ -37,6 +37,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WFEstudiante", "WFEstudiant
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormRegistrate", "FormRegistrate\FormRegistrate.csproj", "{DBAF7301-0ED5-4D2D-8E99-7F487C00C8F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormPrincipalLapicera", "WinFormPrincipalLapicera\WinFormPrincipalLapicera.csproj", "{73A55457-FF78-41A7-9D90-457340D60223}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{DBAF7301-0ED5-4D2D-8E99-7F487C00C8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBAF7301-0ED5-4D2D-8E99-7F487C00C8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBAF7301-0ED5-4D2D-8E99-7F487C00C8F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73A55457-FF78-41A7-9D90-457340D60223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A55457-FF78-41A7-9D90-457340D60223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A55457-FF78-41A7-9D90-457340D60223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A55457-FF78-41A7-9D90-457340D60223}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -20,11 +20,15 @@ namespace FormRegistrate
             if(formAlta.ShowDialog() == DialogResult.OK)
             {
                 ingresantes.Add(formAlta.Ingresante);
-                //metodo y usar fill en dgv 
-                dgv_ingresante.DataSource = null;
-                dgv_ingresante.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
-                dgv_ingresante.DataSource = ingresantes;
+                dgvCargar();
+
             }
+        }
+        private void dgvCargar()
+        {
+            dgv_ingresante.DataSource = null;
+            dgv_ingresante.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            dgv_ingresante.DataSource = ingresantes;
         }
     }
 }

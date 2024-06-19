@@ -12,21 +12,17 @@ namespace LibreriaDeFunciones
         //en el archivo donde se usan las funciones, se llama al metodo como MisFunciones.nombredelafuncion
         public static bool IsEmpty(string word) 
         {
-            bool result = false;
-            if (word == "")
-            {
-                result = true;
-            }
-            return result; 
+            return word == string.Empty;
         }
         public static bool IsString(string word)
         {
-            bool result = false;
+            return word.Any(char.IsDigit);
+            /*bool result = false;
             if (word.Any(char.IsDigit))
             {
                 result = true;
             }
-            return result;
+            return result;*/
         }
         public static bool IsNumber(string word)
         {
