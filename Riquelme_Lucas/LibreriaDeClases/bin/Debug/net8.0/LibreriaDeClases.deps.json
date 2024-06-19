@@ -7,6 +7,9 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "LibreriaDeClases/1.0.0": {
+        "dependencies": {
+          "LibreriaDeFunciones": "1.0.0"
+        },
         "runtime": {
           "LibreriaDeClases.dll": {}
         }

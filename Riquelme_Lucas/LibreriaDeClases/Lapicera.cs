@@ -18,7 +18,7 @@ namespace LibreriaDeClases
         public int Precio { get => precio;}
         public string Marca { get => marca;}
         public int NivelDeTinta { get => nivelDeTinta;}
-        public Lapicera()
+        private Lapicera()
         {
             nivelDeTinta = 100;
         }
@@ -31,7 +31,7 @@ namespace LibreriaDeClases
         public bool Escribir(int cantLetras)
         {
             bool bandera = false;
-            if(cantLetras < NivelDeTinta)
+            if(cantLetras <= NivelDeTinta)
             {
                 nivelDeTinta -= cantLetras;
                 bandera = true;
