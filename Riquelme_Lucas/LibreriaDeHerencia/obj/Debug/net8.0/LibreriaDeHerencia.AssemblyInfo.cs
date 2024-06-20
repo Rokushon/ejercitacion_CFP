@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibreriaDeHerencia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16381dddd664d92c1573270200c6e1e25f36c483")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3937d167d92b1233be2eb85b7e45cd676fc7a445")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibreriaDeHerencia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibreriaDeHerencia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

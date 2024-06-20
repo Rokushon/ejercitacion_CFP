@@ -1,0 +1,12 @@
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaTareaVehiculo\bin\Debug\net8.0\LibreriaTareaVehiculo.deps.json
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaTareaVehiculo\bin\Debug\net8.0\LibreriaTareaVehiculo.dll
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaTareaVehiculo\bin\Debug\net8.0\LibreriaTareaVehiculo.pdb
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaTareaVehiculo\obj\Debug\net8.0\LibreriaTareaVehiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaTareaVehiculo\obj\Debug\net8.0\LibreriaTareaVehiculo.AssemblyInfoInputs.cache
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaTareaVehiculo\obj\Debug\net8.0\LibreriaTareaVehiculo.AssemblyInfo.cs
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaTareaVehiculo\obj\Debug\net8.0\LibreriaTareaVehiculo.csproj.CoreCompileInputs.cache
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaTareaVehiculo\obj\Debug\net8.0\LibreriaTareaVehiculo.sourcelink.json
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaTareaVehiculo\obj\Debug\net8.0\LibreriaTareaVehiculo.dll
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaTareaVehiculo\obj\Debug\net8.0\refint\LibreriaTareaVehiculo.dll
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaTareaVehiculo\obj\Debug\net8.0\LibreriaTareaVehiculo.pdb
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaTareaVehiculo\obj\Debug\net8.0\ref\LibreriaTareaVehiculo.dll

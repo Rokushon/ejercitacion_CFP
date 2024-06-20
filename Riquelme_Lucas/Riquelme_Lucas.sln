@@ -39,9 +39,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormRegistrate", "FormRegis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormPrincipalLapicera", "WinFormPrincipalLapicera\WinFormPrincipalLapicera.csproj", "{73A55457-FF78-41A7-9D90-457340D60223}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaDeHerencia", "LibreriaDeHerencia\LibreriaDeHerencia.csproj", "{37AF8FD4-4DE6-4D92-9474-EF6ADBA8BAF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaDeHerencia", "LibreriaDeHerencia\LibreriaDeHerencia.csproj", "{37AF8FD4-4DE6-4D92-9474-EF6ADBA8BAF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaHerencia", "PruebaHerencia\PruebaHerencia.csproj", "{4171C503-FCB9-451E-B106-B09C816EDE64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaHerencia", "PruebaHerencia\PruebaHerencia.csproj", "{4171C503-FCB9-451E-B106-B09C816EDE64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaTareaVehiculo", "LibreriaTareaVehiculo\LibreriaTareaVehiculo.csproj", "{A9E57E1F-E8C0-46BE-AA93-2C1DB6D7B707}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolaTareaVehiculo", "ConsolaTareaVehiculo\ConsolaTareaVehiculo.csproj", "{9821AB0E-7CDF-42EA-9095-DDCC8473227E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +133,14 @@ Global
 		{4171C503-FCB9-451E-B106-B09C816EDE64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4171C503-FCB9-451E-B106-B09C816EDE64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4171C503-FCB9-451E-B106-B09C816EDE64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E57E1F-E8C0-46BE-AA93-2C1DB6D7B707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E57E1F-E8C0-46BE-AA93-2C1DB6D7B707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E57E1F-E8C0-46BE-AA93-2C1DB6D7B707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E57E1F-E8C0-46BE-AA93-2C1DB6D7B707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9821AB0E-7CDF-42EA-9095-DDCC8473227E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9821AB0E-7CDF-42EA-9095-DDCC8473227E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9821AB0E-7CDF-42EA-9095-DDCC8473227E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9821AB0E-7CDF-42EA-9095-DDCC8473227E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

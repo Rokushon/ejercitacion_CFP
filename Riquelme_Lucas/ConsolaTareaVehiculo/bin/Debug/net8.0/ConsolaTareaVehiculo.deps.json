@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsolaTareaVehiculo/1.0.0": {
+        "dependencies": {
+          "LibreriaTareaVehiculo": "1.0.0"
+        },
+        "runtime": {
+          "ConsolaTareaVehiculo.dll": {}
+        }
+      },
+      "LibreriaTareaVehiculo/1.0.0": {
+        "runtime": {
+          "LibreriaTareaVehiculo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsolaTareaVehiculo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaTareaVehiculo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

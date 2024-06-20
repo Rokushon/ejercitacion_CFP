@@ -3,44 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4171C503-FCB9-451E-B106-B09C816EDE64}|PruebaHerencia\\PruebaHerencia.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\pruebaherencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4171C503-FCB9-451E-B106-B09C816EDE64}|PruebaHerencia\\PruebaHerencia.csproj|solutionrelative:pruebaherencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9821AB0E-7CDF-42EA-9095-DDCC8473227E}|ConsolaTareaVehiculo\\ConsolaTareaVehiculo.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\consolatareavehiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9821AB0E-7CDF-42EA-9095-DDCC8473227E}|ConsolaTareaVehiculo\\ConsolaTareaVehiculo.csproj|solutionrelative:consolatareavehiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37AF8FD4-4DE6-4D92-9474-EF6ADBA8BAF8}|LibreriaDeHerencia\\LibreriaDeHerencia.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\libreriadeherencia\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AF8FD4-4DE6-4D92-9474-EF6ADBA8BAF8}|LibreriaDeHerencia\\LibreriaDeHerencia.csproj|solutionrelative:libreriadeherencia\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9E57E1F-E8C0-46BE-AA93-2C1DB6D7B707}|LibreriaTareaVehiculo\\LibreriaTareaVehiculo.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\libreriatareavehiculo\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E57E1F-E8C0-46BE-AA93-2C1DB6D7B707}|LibreriaTareaVehiculo\\LibreriaTareaVehiculo.csproj|solutionrelative:libreriatareavehiculo\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37AF8FD4-4DE6-4D92-9474-EF6ADBA8BAF8}|LibreriaDeHerencia\\LibreriaDeHerencia.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\libreriadeherencia\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AF8FD4-4DE6-4D92-9474-EF6ADBA8BAF8}|LibreriaDeHerencia\\LibreriaDeHerencia.csproj|solutionrelative:libreriadeherencia\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9E57E1F-E8C0-46BE-AA93-2C1DB6D7B707}|LibreriaTareaVehiculo\\LibreriaTareaVehiculo.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\libreriatareavehiculo\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E57E1F-E8C0-46BE-AA93-2C1DB6D7B707}|LibreriaTareaVehiculo\\LibreriaTareaVehiculo.csproj|solutionrelative:libreriatareavehiculo\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37AF8FD4-4DE6-4D92-9474-EF6ADBA8BAF8}|LibreriaDeHerencia\\LibreriaDeHerencia.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\libreriadeherencia\\loro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AF8FD4-4DE6-4D92-9474-EF6ADBA8BAF8}|LibreriaDeHerencia\\LibreriaDeHerencia.csproj|solutionrelative:libreriadeherencia\\loro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AF8FD4-4DE6-4D92-9474-EF6ADBA8BAF8}|LibreriaDeHerencia\\LibreriaDeHerencia.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\libreriadeherencia\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AF8FD4-4DE6-4D92-9474-EF6ADBA8BAF8}|LibreriaDeHerencia\\LibreriaDeHerencia.csproj|solutionrelative:libreriadeherencia\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73A55457-FF78-41A7-9D90-457340D60223}|WinFormPrincipalLapicera\\WinFormPrincipalLapicera.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\winformprincipallapicera\\lapiceraprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73A55457-FF78-41A7-9D90-457340D60223}|WinFormPrincipalLapicera\\WinFormPrincipalLapicera.csproj|solutionrelative:winformprincipallapicera\\lapiceraprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73A55457-FF78-41A7-9D90-457340D60223}|WinFormPrincipalLapicera\\WinFormPrincipalLapicera.csproj|C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\winformprincipallapicera\\lapiceraprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{73A55457-FF78-41A7-9D90-457340D60223}|WinFormPrincipalLapicera\\WinFormPrincipalLapicera.csproj|solutionrelative:winformprincipallapicera\\lapiceraprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C2C01FC-98C3-476C-B633-76D4C60A154A}|LibreriaDeClases\\LibreriaDeClases.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\libreriadeclases\\lapicera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C2C01FC-98C3-476C-B633-76D4C60A154A}|LibreriaDeClases\\LibreriaDeClases.csproj|solutionrelative:libreriadeclases\\lapicera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73A55457-FF78-41A7-9D90-457340D60223}|WinFormPrincipalLapicera\\WinFormPrincipalLapicera.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\winformprincipallapicera\\formaltalapicera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73A55457-FF78-41A7-9D90-457340D60223}|WinFormPrincipalLapicera\\WinFormPrincipalLapicera.csproj|solutionrelative:winformprincipallapicera\\formaltalapicera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73A55457-FF78-41A7-9D90-457340D60223}|WinFormPrincipalLapicera\\WinFormPrincipalLapicera.csproj|C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\winformprincipallapicera\\formaltalapicera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{73A55457-FF78-41A7-9D90-457340D60223}|WinFormPrincipalLapicera\\WinFormPrincipalLapicera.csproj|solutionrelative:winformprincipallapicera\\formaltalapicera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A9E57E1F-E8C0-46BE-AA93-2C1DB6D7B707}|LibreriaTareaVehiculo\\LibreriaTareaVehiculo.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\libreriatareavehiculo\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E57E1F-E8C0-46BE-AA93-2C1DB6D7B707}|LibreriaTareaVehiculo\\LibreriaTareaVehiculo.csproj|solutionrelative:libreriatareavehiculo\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,134 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaDeHerencia\\Animal.cs",
-              "RelativeDocumentMoniker": "LibreriaDeHerencia\\Animal.cs",
-              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaDeHerencia\\Animal.cs",
-              "RelativeToolTip": "LibreriaDeHerencia\\Animal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T22:42:48.284Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\PruebaHerencia\\Program.cs",
-              "RelativeDocumentMoniker": "PruebaHerencia\\Program.cs",
-              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\PruebaHerencia\\Program.cs",
-              "RelativeToolTip": "PruebaHerencia\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA2wCMAAAA4AAAA",
+              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\ConsolaTareaVehiculo\\Program.cs",
+              "RelativeDocumentMoniker": "ConsolaTareaVehiculo\\Program.cs",
+              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\ConsolaTareaVehiculo\\Program.cs",
+              "RelativeToolTip": "ConsolaTareaVehiculo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T22:36:32.859Z",
+              "WhenOpened": "2024-06-20T18:52:06.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Loro.cs",
-              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaDeHerencia\\Loro.cs",
-              "RelativeDocumentMoniker": "LibreriaDeHerencia\\Loro.cs",
-              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaDeHerencia\\Loro.cs",
-              "RelativeToolTip": "LibreriaDeHerencia\\Loro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "DocumentIndex": 1,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaTareaVehiculo\\Moto.cs",
+              "RelativeDocumentMoniker": "LibreriaTareaVehiculo\\Moto.cs",
+              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaTareaVehiculo\\Moto.cs",
+              "RelativeToolTip": "LibreriaTareaVehiculo\\Moto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T22:31:09.895Z",
+              "WhenOpened": "2024-06-20T18:40:06.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Gato.cs",
-              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaDeHerencia\\Gato.cs",
-              "RelativeDocumentMoniker": "LibreriaDeHerencia\\Gato.cs",
-              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaDeHerencia\\Gato.cs",
-              "RelativeToolTip": "LibreriaDeHerencia\\Gato.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAArAAAA",
+              "Title": "Coche.cs",
+              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaTareaVehiculo\\Coche.cs",
+              "RelativeDocumentMoniker": "LibreriaTareaVehiculo\\Coche.cs",
+              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaTareaVehiculo\\Coche.cs",
+              "RelativeToolTip": "LibreriaTareaVehiculo\\Coche.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T22:30:41.173Z",
+              "WhenOpened": "2024-06-20T18:39:59.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Perro.cs",
-              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaDeHerencia\\Perro.cs",
-              "RelativeDocumentMoniker": "LibreriaDeHerencia\\Perro.cs",
-              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaDeHerencia\\Perro.cs",
-              "RelativeToolTip": "LibreriaDeHerencia\\Perro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAArAAAA",
+              "DocumentIndex": 3,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaTareaVehiculo\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "LibreriaTareaVehiculo\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaTareaVehiculo\\Vehiculo.cs",
+              "RelativeToolTip": "LibreriaTareaVehiculo\\Vehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T22:28:21.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FormAltaLapicera.cs",
-              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\WinFormPrincipalLapicera\\FormAltaLapicera.cs",
-              "RelativeDocumentMoniker": "WinFormPrincipalLapicera\\FormAltaLapicera.cs",
-              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\WinFormPrincipalLapicera\\FormAltaLapicera.cs",
-              "RelativeToolTip": "WinFormPrincipalLapicera\\FormAltaLapicera.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowCEAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T22:35:10.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FormAltaLapicera.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\WinFormPrincipalLapicera\\FormAltaLapicera.cs",
-              "RelativeDocumentMoniker": "WinFormPrincipalLapicera\\FormAltaLapicera.cs",
-              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\WinFormPrincipalLapicera\\FormAltaLapicera.cs [Dise\u00F1o]",
-              "RelativeToolTip": "WinFormPrincipalLapicera\\FormAltaLapicera.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T22:22:39.522Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LapiceraPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\WinFormPrincipalLapicera\\LapiceraPrincipal.cs",
-              "RelativeDocumentMoniker": "WinFormPrincipalLapicera\\LapiceraPrincipal.cs",
-              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\WinFormPrincipalLapicera\\LapiceraPrincipal.cs",
-              "RelativeToolTip": "WinFormPrincipalLapicera\\LapiceraPrincipal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T22:22:53.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LapiceraPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\WinFormPrincipalLapicera\\LapiceraPrincipal.cs",
-              "RelativeDocumentMoniker": "WinFormPrincipalLapicera\\LapiceraPrincipal.cs",
-              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\WinFormPrincipalLapicera\\LapiceraPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "WinFormPrincipalLapicera\\LapiceraPrincipal.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T22:21:46.994Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Lapicera.cs",
-              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaDeClases\\Lapicera.cs",
-              "RelativeDocumentMoniker": "LibreriaDeClases\\Lapicera.cs",
-              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaDeClases\\Lapicera.cs",
-              "RelativeToolTip": "LibreriaDeClases\\Lapicera.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAIwCMAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T22:08:56.056Z",
+              "WhenOpened": "2024-06-20T18:38:51.3Z",
               "EditorCaption": ""
             }
           ]
