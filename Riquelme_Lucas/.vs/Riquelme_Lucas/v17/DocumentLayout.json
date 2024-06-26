@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9821AB0E-7CDF-42EA-9095-DDCC8473227E}|ConsolaTareaVehiculo\\ConsolaTareaVehiculo.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\consolatareavehiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9821AB0E-7CDF-42EA-9095-DDCC8473227E}|ConsolaTareaVehiculo\\ConsolaTareaVehiculo.csproj|solutionrelative:consolatareavehiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B49001E2-49A5-48AA-A969-B76C4EE79986}|ConsolaProyectoEmpleados\\ConsolaProyectoEmpleados.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\consolaproyectoempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49001E2-49A5-48AA-A969-B76C4EE79986}|ConsolaProyectoEmpleados\\ConsolaProyectoEmpleados.csproj|solutionrelative:consolaproyectoempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9E57E1F-E8C0-46BE-AA93-2C1DB6D7B707}|LibreriaTareaVehiculo\\LibreriaTareaVehiculo.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\libreriatareavehiculo\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9E57E1F-E8C0-46BE-AA93-2C1DB6D7B707}|LibreriaTareaVehiculo\\LibreriaTareaVehiculo.csproj|solutionrelative:libreriatareavehiculo\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DCBFB33-C60C-4685-AFA1-629313F907B4}|LibreriaProyectoEmpleados\\LibreriaProyectoEmpleados.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\libreriaproyectoempleados\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCBFB33-C60C-4685-AFA1-629313F907B4}|LibreriaProyectoEmpleados\\LibreriaProyectoEmpleados.csproj|solutionrelative:libreriaproyectoempleados\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9E57E1F-E8C0-46BE-AA93-2C1DB6D7B707}|LibreriaTareaVehiculo\\LibreriaTareaVehiculo.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\libreriatareavehiculo\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9E57E1F-E8C0-46BE-AA93-2C1DB6D7B707}|LibreriaTareaVehiculo\\LibreriaTareaVehiculo.csproj|solutionrelative:libreriatareavehiculo\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DCBFB33-C60C-4685-AFA1-629313F907B4}|LibreriaProyectoEmpleados\\LibreriaProyectoEmpleados.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\libreriaproyectoempleados\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCBFB33-C60C-4685-AFA1-629313F907B4}|LibreriaProyectoEmpleados\\LibreriaProyectoEmpleados.csproj|solutionrelative:libreriaproyectoempleados\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9E57E1F-E8C0-46BE-AA93-2C1DB6D7B707}|LibreriaTareaVehiculo\\LibreriaTareaVehiculo.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\libreriatareavehiculo\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9E57E1F-E8C0-46BE-AA93-2C1DB6D7B707}|LibreriaTareaVehiculo\\LibreriaTareaVehiculo.csproj|solutionrelative:libreriatareavehiculo\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DCBFB33-C60C-4685-AFA1-629313F907B4}|LibreriaProyectoEmpleados\\LibreriaProyectoEmpleados.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\libreriaproyectoempleados\\desarrollador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCBFB33-C60C-4685-AFA1-629313F907B4}|LibreriaProyectoEmpleados\\LibreriaProyectoEmpleados.csproj|solutionrelative:libreriaproyectoempleados\\desarrollador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCBFB33-C60C-4685-AFA1-629313F907B4}|LibreriaProyectoEmpleados\\LibreriaProyectoEmpleados.csproj|c:\\users\\roku\\desktop\\ejercitacion_cfp\\riquelme_lucas\\libreriaproyectoempleados\\analista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCBFB33-C60C-4685-AFA1-629313F907B4}|LibreriaProyectoEmpleados\\LibreriaProyectoEmpleados.csproj|solutionrelative:libreriaproyectoempleados\\analista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,52 +36,65 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\ConsolaTareaVehiculo\\Program.cs",
-              "RelativeDocumentMoniker": "ConsolaTareaVehiculo\\Program.cs",
-              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\ConsolaTareaVehiculo\\Program.cs",
-              "RelativeToolTip": "ConsolaTareaVehiculo\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\ConsolaProyectoEmpleados\\Program.cs",
+              "RelativeDocumentMoniker": "ConsolaProyectoEmpleados\\Program.cs",
+              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\ConsolaProyectoEmpleados\\Program.cs",
+              "RelativeToolTip": "ConsolaProyectoEmpleados\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T18:52:06.276Z",
+              "WhenOpened": "2024-06-26T22:23:00.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Moto.cs",
-              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaTareaVehiculo\\Moto.cs",
-              "RelativeDocumentMoniker": "LibreriaTareaVehiculo\\Moto.cs",
-              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaTareaVehiculo\\Moto.cs",
-              "RelativeToolTip": "LibreriaTareaVehiculo\\Moto.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "Analista.cs",
+              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaProyectoEmpleados\\Analista.cs",
+              "RelativeDocumentMoniker": "LibreriaProyectoEmpleados\\Analista.cs",
+              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaProyectoEmpleados\\Analista.cs",
+              "RelativeToolTip": "LibreriaProyectoEmpleados\\Analista.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA2wCIAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T18:40:06.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Coche.cs",
-              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaTareaVehiculo\\Coche.cs",
-              "RelativeDocumentMoniker": "LibreriaTareaVehiculo\\Coche.cs",
-              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaTareaVehiculo\\Coche.cs",
-              "RelativeToolTip": "LibreriaTareaVehiculo\\Coche.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T18:39:59.701Z",
+              "WhenOpened": "2024-06-26T21:52:58.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Vehiculo.cs",
-              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaTareaVehiculo\\Vehiculo.cs",
-              "RelativeDocumentMoniker": "LibreriaTareaVehiculo\\Vehiculo.cs",
-              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaTareaVehiculo\\Vehiculo.cs",
-              "RelativeToolTip": "LibreriaTareaVehiculo\\Vehiculo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Title": "Desarrollador.cs",
+              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaProyectoEmpleados\\Desarrollador.cs",
+              "RelativeDocumentMoniker": "LibreriaProyectoEmpleados\\Desarrollador.cs",
+              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaProyectoEmpleados\\Desarrollador.cs",
+              "RelativeToolTip": "LibreriaProyectoEmpleados\\Desarrollador.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwCMAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T18:38:51.3Z",
+              "WhenOpened": "2024-06-26T21:52:17.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaProyectoEmpleados\\Gerente.cs",
+              "RelativeDocumentMoniker": "LibreriaProyectoEmpleados\\Gerente.cs",
+              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaProyectoEmpleados\\Gerente.cs",
+              "RelativeToolTip": "LibreriaProyectoEmpleados\\Gerente.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwB8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:51:53.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaProyectoEmpleados\\Empleado.cs",
+              "RelativeDocumentMoniker": "LibreriaProyectoEmpleados\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Roku\\Desktop\\ejercitacion_CFP\\Riquelme_Lucas\\LibreriaProyectoEmpleados\\Empleado.cs",
+              "RelativeToolTip": "LibreriaProyectoEmpleados\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:51:05.744Z",
               "EditorCaption": ""
             }
           ]

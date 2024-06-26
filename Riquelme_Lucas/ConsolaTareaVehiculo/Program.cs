@@ -16,8 +16,10 @@ namespace ConsolaTareaVehiculo
 
             Console.WriteLine(moto01.Conducir());
             Console.WriteLine(coche01.Conducir());
-            Console.WriteLine("\n" + moto01.Mostrarinfo());
-            Console.WriteLine("\n"+coche01.Mostrarinfo());
+
+            Console.WriteLine($"\n {moto01.Mostrarinfo()}");
+            Console.WriteLine("\n" + coche01.Mostrarinfo());
+
             Console.WriteLine($"\n{coche01.GetType().Name}\n{((Coche)coche01).AbrirMaletero()}");
             Console.WriteLine($"\n{moto01.GetType().Name}\n{((Moto)moto01).HacerCaballito()}");
 

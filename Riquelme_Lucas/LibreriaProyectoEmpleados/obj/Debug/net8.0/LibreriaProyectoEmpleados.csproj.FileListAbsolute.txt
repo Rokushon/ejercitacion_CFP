@@ -1,0 +1,12 @@
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaProyectoEmpleados\bin\Debug\net8.0\LibreriaProyectoEmpleados.deps.json
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaProyectoEmpleados\bin\Debug\net8.0\LibreriaProyectoEmpleados.dll
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaProyectoEmpleados\bin\Debug\net8.0\LibreriaProyectoEmpleados.pdb
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaProyectoEmpleados\obj\Debug\net8.0\LibreriaProyectoEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaProyectoEmpleados\obj\Debug\net8.0\LibreriaProyectoEmpleados.AssemblyInfoInputs.cache
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaProyectoEmpleados\obj\Debug\net8.0\LibreriaProyectoEmpleados.AssemblyInfo.cs
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaProyectoEmpleados\obj\Debug\net8.0\LibreriaProyectoEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaProyectoEmpleados\obj\Debug\net8.0\LibreriaProyectoEmpleados.sourcelink.json
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaProyectoEmpleados\obj\Debug\net8.0\LibreriaProyectoEmpleados.dll
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaProyectoEmpleados\obj\Debug\net8.0\refint\LibreriaProyectoEmpleados.dll
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaProyectoEmpleados\obj\Debug\net8.0\LibreriaProyectoEmpleados.pdb
+C:\Users\Roku\Desktop\ejercitacion_CFP\Riquelme_Lucas\LibreriaProyectoEmpleados\obj\Debug\net8.0\ref\LibreriaProyectoEmpleados.dll
